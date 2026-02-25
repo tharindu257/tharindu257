@@ -29,7 +29,6 @@
 ```yaml
 name: Tharindu Dilshan
 role: Full Stack Developer
-education: Undergraduate — Computer Science
 currently_building:
   - Enterprise POS Systems
   - Cross-Platform Mobile Apps
@@ -273,4 +272,5 @@ open_to: Collaborations & Opportunities
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+
 
