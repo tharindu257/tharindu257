@@ -380,6 +380,3 @@ problem and a kind team.
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:1a1a1a&height=4&section=footer" width="100%"/>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:1a1a1a&height=4&section=footer" width="100%"/>
-
-</div>
