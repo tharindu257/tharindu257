@@ -1,122 +1,78 @@
+<!--
+══════════════════════════════════════════════════════════════════════════════
+   THE DILSHAN DISPATCH  ·  A SOFTWARE ENGINEERING LOGBOOK
+   Vol. 01  ·  Issue №07  ·  Filed from Negombo, Sri Lanka  ·  GMT+5:30
+══════════════════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO BANNER                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/tharindu257">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Tharindu%20Dilshan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Architecting%20software%20that%20scales%20—%20from%20pixel%20to%20pipeline.&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="banner"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:1a1a1a&height=4&section=header" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/tharindu257">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Senior+Full-Stack+Engineer+%E2%80%A2+Mobile+Architect+%E2%80%A2+AI+Builder;Designing+Systems+%E2%80%A2+Shipping+Products+%E2%80%A2+Scaling+Teams;Type-safe+APIs+%E2%80%A2+Resilient+Infra+%E2%80%A2+Pixel-perfect+UX" alt="headline"/>
-</a>
+<sub>EST. 2020 &nbsp;·&nbsp; VOL. 01 &nbsp;·&nbsp; ISSUE №07 &nbsp;·&nbsp; FILED UNDER: <i>full-stack, mobile, ai</i> &nbsp;·&nbsp; ★★★★★</sub>
 
-<br/><br/>
+# THE DILSHAN DISPATCH
 
-<!-- Identity strip -->
-<a href="mailto:tharindu@example.com"><img src="https://img.shields.io/badge/Reach_Out-Email-0d1117?style=flat-square&logo=protonmail&logoColor=8B5CF6&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/tharindu257"><img src="https://img.shields.io/badge/Network-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8B5CF6&labelColor=0d1117"/></a>
-<a href="https://github.com/tharindu257"><img src="https://img.shields.io/badge/Code-GitHub-0d1117?style=flat-square&logo=github&logoColor=8B5CF6&labelColor=0d1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Region-Sri_Lanka-0d1117?style=flat-square&logo=googlemaps&logoColor=8B5CF6&labelColor=0d1117"/></a>
-<img src="https://komarev.com/ghpvc/?username=tharindu257&style=flat-square&color=8B5CF6&labelColor=0d1117&label=Visitors"/>
+### *A working logbook of one engineer's pursuit of software that lasts.*
+
+<sub>BY <b>THARINDU DILSHAN</b> &nbsp;·&nbsp; CORRESPONDENT-AT-LARGE &nbsp;·&nbsp; NEGOMBO BUREAU</sub>
+
+<br/>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          PHILOSOPHY                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## &nbsp;&nbsp;`01` &nbsp;&nbsp;Engineering Philosophy
-
-> *"The best code is not the cleverest — it is the one a stranger can read at 3 AM and trust."*
-
-I build **production systems** end-to-end: from data models and API contracts down to the millisecond rendering of a button on a slow Android device. My focus is on **clarity, correctness, and shipping** — not chasing trends.
-
-```ts
-const principles = {
-  craft:        "Tests aren't optional. Types aren't suggestions.",
-  scale:        "Design for 10× before optimizing for 1×.",
-  empathy:      "Every line of code is read more than written.",
-  pragmatism:   "Boring technology, deployed on Friday at 2 PM.",
-  ownership:    "If it broke in production, it's mine to fix.",
-} as const;
-```
+> ## *"I write software the way a clockmaker fits gears — slowly, with tweezers, and a quiet stubborn faith that the small things will hold the whole."*
 
 <br/>
 
----
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      WHAT I DO — DOMAINS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## &nbsp;&nbsp;`02` &nbsp;&nbsp;Domains of Expertise
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" valign="top">
 
-### &nbsp;◆ &nbsp;Enterprise & POS Systems
-Building the operational backbone for retail and multi-branch businesses.
+###### THE CORRESPONDENT
+**Tharindu Dilshan**
+*Full-stack engineer.*
+Mobile architect.
+Reluctant AI enthusiast.
 
-```diff
-+ Multi-tenant architecture & RBAC
-+ Inventory, billing & reconciliation
-+ Audit trails & compliance reporting
-+ Offline-first sync engines
-+ ERP & payment-gateway integrations
-```
+###### BUREAU
+Negombo &nbsp;·&nbsp; LK
+*GMT +5 : 30*
 
-</td>
-<td width="50%" valign="top">
-
-### &nbsp;◆ &nbsp;Mobile Engineering
-Cross-platform apps that feel native on every device.
-
-```diff
-+ Flutter & React Native (production)
-+ Native modules & platform channels
-+ Offline-first state & queue sync
-+ Push notifications & deep linking
-+ Barcode / QR / receipt printer SDKs
-```
+###### DESK
+Open to senior &amp;
+staff-level roles.
+Async-friendly.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="3%"></td>
+<td width="75%" valign="top">
 
-### &nbsp;◆ &nbsp;Backend & Distributed Systems
-APIs and services that don't fall over at 3 AM.
+## §I &nbsp; DISPATCHES FROM THE DESK
 
-```diff
-+ REST & GraphQL contract design
-+ Event-driven & microservice patterns
-+ Postgres tuning & schema migrations
-+ Auth (OAuth2, JWT, session, RBAC)
-+ Observability: logs, metrics, traces
-```
+I build the unsexy software that keeps small businesses alive — point-of-sale systems
+that survive bad WiFi, mobile apps that field workers don't curse at, dashboards
+managers actually open on Monday mornings. I write Java and TypeScript by day,
+Dart and Python by night, and I think about Postgres indexes more than is strictly
+healthy.
 
-</td>
-<td width="50%" valign="top">
+What I care about is **boring software, beautifully made.** Tests that actually
+test things. Logs you can read without grep gymnastics. Migrations that don't
+wake anyone at 3 AM. A user interface that respects the fact that the user has
+a job to do and would rather be doing it.
 
-### &nbsp;◆ &nbsp;AI & Intelligent Tooling
-Practical AI that earns its place in production.
-
-```diff
-+ LLM orchestration (Claude, GPT, local)
-+ RAG pipelines & vector search
-+ Computer vision for OCR & inventory
-+ AI-driven reporting & summarization
-+ Cost & latency optimization
-```
+If you're building something operational — POS, ERP, ops dashboards, mobile
+field tools, AI-assisted reporting — I'd like to hear about it.
 
 </td>
 </tr>
@@ -124,151 +80,210 @@ Practical AI that earns its place in production.
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## &nbsp;&nbsp;`03` &nbsp;&nbsp;Tech Stack
-
-<sub>Tools I reach for daily — chosen for reliability, not novelty.</sub>
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 <br/>
 
+## §II &nbsp; FIELD NOTES &nbsp; · &nbsp; <sub>FROM THE WORKBENCH</sub>
+
 <table>
 <tr>
-<td valign="top" width="20%"><b>&nbsp;Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,dart,php,bash" />
+<td width="50%" valign="top">
+
+#### ❒ &nbsp; ON BUILDING POS SYSTEMS
+*Filed under: enterprise, retail, the unglamorous*
+
+> The cash drawer is the most honest user in software. It either opens or it doesn't. There is no spinner.
+
+A POS system isn't a CRUD app with a receipt printer; it's a small, hostile
+distributed system pretending to be a single screen. Offline sync, drift between
+shop clocks, multi-branch reconciliation, audit trails that auditors will
+actually accept — all of it must work while a queue of customers stares at the
+cashier. I've shipped this category enough times to have opinions, and most of
+them are: ***keep it dumber than you think you need to.***
+
+</td>
+<td width="50%" valign="top">
+
+#### ❒ &nbsp; ON MOBILE THAT FEELS NATIVE
+*Filed under: flutter, react-native, field work*
+
+> A field worker in poor signal does not care about your framework debate. They care that the form saves.
+
+Cross-platform pays its rent only when you respect the platform. That means
+queue-based sync, conflict resolution your product manager can explain on a
+napkin, push reliability on Android OEMs that hate background work, and a UI
+that doesn't pretend the network is fine when it's clearly not. I build mobile
+the way one packs for a long hike: **light, durable, and assuming it will rain.**
+
 </td>
 </tr>
 <tr>
-<td valign="top"><b>&nbsp;Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vite,tailwind,bootstrap,redux,html,css" />
+<td width="50%" valign="top">
+
+#### ❒ &nbsp; ON AI THAT EARNS ITS KEEP
+*Filed under: llms, rag, restraint*
+
+> A model that hallucinates a SKU is worse than no model at all.
+
+I'm bullish on LLMs and bearish on most LLM products. The interesting work is
+not in chat — it's in the quiet places: turning a week of transactional data
+into a one-paragraph summary a regional manager will actually read; reading a
+supplier invoice into a structured row; explaining why a number moved.
+**Production AI is mostly plumbing,** and I quite like plumbing.
+
 </td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;Mobile</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio,xcode" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,graphql,fastapi" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;Data</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,prisma" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;AI / ML</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,gcp,linux,bash" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;Quality</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>&nbsp;Design</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+<td width="50%" valign="top">
+
+#### ❒ &nbsp; ON THE DISCIPLINE OF SHIPPING
+*Filed under: process, calm, friday deploys*
+
+> The deploy script you trust on a Friday is the only deploy script that matters.
+
+I've worked at the speed of startup chaos and the speed of enterprise process,
+and I've concluded that **the goal is neither.** The goal is a calm machine:
+short feedback loops, reversible decisions, observable systems, and a team that
+goes home on time. Most of my "AI productivity" comes from refusing to debug
+problems my tooling should have caught at compile time.
+
 </td>
 </tr>
 </table>
 
 <br/>
 
----
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
-## &nbsp;&nbsp;`04` &nbsp;&nbsp;GitHub Analytics
+## §III &nbsp; THE TOOLBOX &nbsp; · &nbsp; <sub>WHAT'S ON THE BENCH</sub>
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   FOR PROSE        ·  TypeScript · Java · Python · Dart · Kotlin        │
+│   FOR THE WEB      ·  Next.js · React · Tailwind · Angular              │
+│   FOR THE PHONE    ·  Flutter · React Native · Expo                     │
+│   FOR THE BACKEND  ·  Spring Boot · Node · Django · FastAPI · GraphQL   │
+│   FOR THE STORE    ·  PostgreSQL · MySQL · Redis · MongoDB · SQLite     │
+│   FOR THE FORGE    ·  Docker · GitHub Actions · Nginx · Linux           │
+│   FOR THE MIND     ·  Claude · OpenAI · PyTorch · OpenCV · pgvector     │
+│   FOR THE GUARD    ·  Jest · Cypress · JUnit · Selenium · Postman       │
+│                                                                         │
+│   FOR THINKING     ·  A notebook · a fountain pen · long walks          │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+<sub>I do not list things I have not used in production. The list is therefore short on purpose.</sub>
+
+<br/>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<br/>
+
+## §IV &nbsp; THE LEDGER &nbsp; · &nbsp; <sub>A QUIET ACCOUNTING</sub>
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=tharindu257&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tharindu257&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=e6c264&icon_color=e6c264&text_color=d4d4d4&ring_color=e6c264&hide_title=false&card_width=480" width="100%" alt="github stats"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tharindu257&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tharindu257&hide_border=true&background=0d0d0d&ring=e6c264&fire=e6c264&currStreakLabel=e6c264&sideLabels=d4d4d4&currStreakNum=ffffff&sideNums=e6c264&dates=8a8a8a&stroke=e6c264" width="100%" alt="streak"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu257&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=10" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindu257&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_title=true" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tharindu257&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindu257&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=e6c264&line=e6c264&point=ffffff&area=true&hide_title=false&custom_title=A%20YEAR%20IN%20COMMITS" width="100%" alt="contribution graph"/>
 
 </div>
 
 <br/>
 
----
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SELECTED WORK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
-## &nbsp;&nbsp;`05` &nbsp;&nbsp;Selected Work
+## §V &nbsp; SELECTED WORKS &nbsp; · &nbsp; <sub>FROM THE ARCHIVE</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="8%" align="center">
 
-#### ▸ &nbsp;[Enterprise POS Platform](https://github.com/tharindu257)
-Multi-tenant point-of-sale with offline sync, role-based audit trails, and cross-branch reconciliation.
-
-`Next.js` &nbsp;`Spring Boot` &nbsp;`Postgres` &nbsp;`Redis`
+###### №01
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="92%">
 
-#### ▸ &nbsp;[Mobile Field Reporting](https://github.com/tharindu257)
-Cross-platform Flutter app for field teams with offline-first capture and barcode workflows.
+#### A Point-of-Sale System That Survives Bad WiFi
+<sub>NEXT.JS · SPRING BOOT · POSTGRESQL · REDIS &nbsp;·&nbsp; <a href="https://github.com/tharindu257">read the source →</a></sub>
 
-`Flutter` &nbsp;`Riverpod` &nbsp;`SQLite` &nbsp;`FCM`
+A multi-tenant POS for small chains: offline-first sync, RBAC with audit trails an
+auditor will sign, and reconciliation that survives a four-hour outage without
+losing a single line item. *Quiet software. The best kind.*
 
 </td>
 </tr>
+
+<tr><td colspan="2"><sub>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sub></td></tr>
+
 <tr>
-<td width="50%" valign="top">
+<td valign="top" align="center">
 
-#### ▸ &nbsp;[AI Reporting Engine](https://github.com/tharindu257)
-LLM-powered analyst that converts raw transactional data into executive narratives.
-
-`Claude API` &nbsp;`Python` &nbsp;`FastAPI` &nbsp;`pgvector`
+###### №02
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-#### ▸ &nbsp;[Inventory Vision](https://github.com/tharindu257)
-Computer-vision pipeline for shelf monitoring and OCR-based stock-in workflows.
+#### A Field-Reporting App for People Who Hate Apps
+<sub>FLUTTER · RIVERPOD · SQLITE · FIREBASE &nbsp;·&nbsp; <a href="https://github.com/tharindu257">read the source →</a></sub>
 
-`OpenCV` &nbsp;`PyTorch` &nbsp;`ONNX` &nbsp;`Docker`
+A Flutter app for field teams in patchy network areas. Captures data offline,
+queues images, retries with exponential backoff, and never — *never* — shows a
+spinner without a reason. Built for the user, not the framework.
+
+</td>
+</tr>
+
+<tr><td colspan="2"><sub>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sub></td></tr>
+
+<tr>
+<td valign="top" align="center">
+
+###### №03
+
+</td>
+<td valign="top">
+
+#### A Quiet Analyst, Powered by an LLM
+<sub>CLAUDE · FASTAPI · PGVECTOR · PYTHON &nbsp;·&nbsp; <a href="https://github.com/tharindu257">read the source →</a></sub>
+
+A reporting service that reads the week's transactions and writes a one-page
+summary a regional manager will actually open. RAG-backed, evaluated against
+human-written baselines, opinionated about cost. *AI as a colleague, not a parlour trick.*
+
+</td>
+</tr>
+
+<tr><td colspan="2"><sub>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sub></td></tr>
+
+<tr>
+<td valign="top" align="center">
+
+###### №04
+
+</td>
+<td valign="top">
+
+#### A Camera That Counts Things on Shelves
+<sub>OPENCV · PYTORCH · ONNX · DOCKER &nbsp;·&nbsp; <a href="https://github.com/tharindu257">read the source →</a></sub>
+
+A computer-vision pipeline for shelf monitoring and OCR-based stock-in. Runs at
+the edge. Knows when it doesn't know — and asks for help politely.
 
 </td>
 </tr>
@@ -276,38 +291,92 @@ Computer-vision pipeline for shelf monitoring and OCR-based stock-in workflows.
 
 <br/>
 
----
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         AVAILABILITY                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
-## &nbsp;&nbsp;`06` &nbsp;&nbsp;Currently
+## §VI &nbsp; THE COMMONPLACE BOOK &nbsp; · &nbsp; <sub>NOTES IN THE MARGIN</sub>
 
-```yaml
-status:        Open to senior full-stack & mobile engineering roles
-focus:         Production AI tooling for SMB & enterprise operations
-learning:      Distributed systems · Rust · Edge inference
-collaborating: Founders building POS, ERP, and AI-native products
-timezone:      GMT+5:30  (Colombo)  ·  flexible for async teams
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> *Make it work, make it right, make it fast — and most of the time, you can stop after the second one.*
+
+> *The senior engineer's superpower is deleting code.*
+
+> *A flaky test is a lie you tell yourself once a day.*
+
+</td>
+<td width="50%" valign="top">
+
+> *Boring technology, deployed on Friday at 2 PM, is a sign of trust — not laziness.*
+
+> *Every line of code is read more than written. Write for the reader.*
+
+> *If you can't explain it on a napkin, you don't understand it yet.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<br/>
+
+## §VII &nbsp; CORRESPONDENCE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+###### TO REACH THE DESK
+By electronic mail &nbsp;—&nbsp; *the surest path*
+[`tharindu@example.com`](mailto:tharindu@example.com)
+
+By professional network &nbsp;—&nbsp; *for context*
+[`linkedin.com/in/tharindu257`](https://linkedin.com/in/tharindu257)
+
+By source repository &nbsp;—&nbsp; *for proof*
+[`github.com/tharindu257`](https://github.com/tharindu257)
+
+</td>
+<td width="50%" valign="top">
+
+###### EDITORIAL POLICY
+I reply within two business days.
+I prefer specific projects to vague chats.
+I do not take crypto work, gambling work,
+or work that wouldn't survive a conversation
+with my mother.
+
+I am, however, easy to convince of a good
+problem and a kind team.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-### &nbsp;&nbsp;Let's build something that lasts.
-
-<a href="mailto:tharindu@example.com">
-  <img src="https://img.shields.io/badge/-Start_a_conversation-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-<sub>Crafted with care · Updated continuously · Last seen shipping code today</sub>
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+###### *—— END OF ISSUE ——*
+
+<sub>SET IN MONOSPACE. PRINTED FROM NEGOMBO. ALL TYPOS ARE DELIBERATE EXCEPT THE ONES THAT AREN'T.</sub>
+
+<br/>
+
+<sub>© <b>THARINDU DILSHAN</b> &nbsp;·&nbsp; FILED <a href="https://github.com/tharindu257">github.com/tharindu257</a> &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=tharindu257&style=flat-square&color=e6c264&labelColor=0d0d0d&label=READERS+THIS+EDITION"/></sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:1a1a1a&height=4&section=footer" width="100%"/>
 
 </div>
